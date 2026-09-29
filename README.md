@@ -1,6 +1,6 @@
-# PRX Philippines Website
+# PRX Worldwide Website
 
-Public static website for PRX Philippines.
+Public static website for PRX Worldwide.
 
 ## Scope
 
